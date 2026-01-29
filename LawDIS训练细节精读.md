@@ -1,6 +1,7 @@
 1. `diffusors_lawDIS`代码
-- 第一个发现，其实`__init__.py`的作用就是按照`huggface`代码库的结构，逐个文件夹的导入自定义d
+- 其实`__init__.py`的作用就是按照`huggface`代码库的结构，逐个文件夹的导入自定义的`autoencoder_kl_lawdis`实现
+- `.\diffusers_lawdis\models\autoencoders\autoencoder_kl_lawdis.py`该文件引用了
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4Mjg0MDA4LC0yMDg4NzQ2NjEyLDE0MD
-YwOTg4MjQsNTgyNjU5ODgwXX0=
+eyJoaXN0b3J5IjpbLTEyNDkyMjYzNzgsLTIwODg3NDY2MTIsMT
+QwNjA5ODgyNCw1ODI2NTk4ODBdfQ==
 -->
