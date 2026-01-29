@@ -5,8 +5,8 @@
 
 2. 训练的核心`UnetModel`
 - 文中推理使用的[unet_2d_conditionModel](https://github.com/huggingface/diffusers/blob/main/src/diffusers/models/unets/unet_2d_condition.py)代码实现。
-- 
+- 其本身可以直接适配`8`的`in_channels`，但是目前常见的`ckpt`都是默认`Unet.in_channels = 4`所以其实还是需要先读取`pre_training`的权重，然后额外添加`4`个端口的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzOTcyOTgxLC0yMDg4NzQ2NjEyLDE0MD
-YwOTg4MjQsNTgyNjU5ODgwXX0=
+eyJoaXN0b3J5IjpbLTE3OTA1NTc4NDgsLTIwODg3NDY2MTIsMT
+QwNjA5ODgyNCw1ODI2NTk4ODBdfQ==
 -->
