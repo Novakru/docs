@@ -7,8 +7,8 @@
 - 文中推理使用的[unet_2d_conditionModel](https://github.com/huggingface/diffusers/blob/main/src/diffusers/models/unets/unet_2d_condition.py)代码实现。
 - 其本身可以直接适配`8`的`in_channels`，但是目前常见的`ckpt`都是默认`Unet.in_channels = 4`所以其实还是需要先读取`pre_training`的权重，然后额外添加`4`个端口的新权重
 - 维度分析
-![输入图片说明](/imgs/2026-01-29/H3LuPLittEtSeSUq.png)
+![维度分析](/imgs/2026-01-29/H3LuPLittEtSeSUq.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkyNDYzMDEsLTMzMDI4MjczNCwtMj
+eyJoaXN0b3J5IjpbLTEwNDEyMzMwNjAsLTMzMDI4MjczNCwtMj
 A4ODc0NjYxMiwxNDA2MDk4ODI0LDU4MjY1OTg4MF19
 -->
