@@ -20,11 +20,12 @@
 | `dis_pred` | 最终输出 | `(H_orig, W_orig)` | Resize 回原图大小的 Numpy 数组 |
 
 3. 回归基本功
-[(79 封私信 / 80 条消息) Diffusion 和Stable Diffusion的数学和工作原理详细解释 - 知乎](https://zhuanlan.zhihu.com/p/597924053)
+- [(79 封私信 / 80 条消息) Diffusion 和Stable Diffusion的数学和工作原理详细解释 - 知乎](https://zhuanlan.zhihu.com/p/597924053)
+- [(79 封私信 / 80 条消息) DiT：从理论到实践，万字长文深入浅出带你学习Diffusion Transformer - 知乎](https://zhuanlan.zhihu.com/p/711055614)
 
 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDMxOTc1NSwtNTUzODc5NTQyLC0xMD
-QxMjMzMDYwLC0zMzAyODI3MzQsLTIwODg3NDY2MTIsMTQwNjA5
-ODgyNCw1ODI2NTk4ODBdfQ==
+eyJoaXN0b3J5IjpbLTIxNDY5NzgzOTksMTQxMDMxOTc1NSwtNT
+UzODc5NTQyLC0xMDQxMjMzMDYwLC0zMzAyODI3MzQsLTIwODg3
+NDY2MTIsMTQwNjA5ODgyNCw1ODI2NTk4ODBdfQ==
 -->
