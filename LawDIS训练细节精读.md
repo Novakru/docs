@@ -23,9 +23,9 @@
 - [(79 封私信 / 80 条消息) Diffusion 和Stable Diffusion的数学和工作原理详细解释 - 知乎](https://zhuanlan.zhihu.com/p/597924053)
 - [(79 封私信 / 80 条消息) DiT：从理论到实践，万字长文深入浅出带你学习Diffusion Transformer - 知乎](https://zhuanlan.zhihu.com/p/711055614)
 
-4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDY5NzgzOTksMTQxMDMxOTc1NSwtNT
-UzODc5NTQyLC0xMDQxMjMzMDYwLC0zMzAyODI3MzQsLTIwODg3
-NDY2MTIsMTQwNjA5ODgyNCw1ODI2NTk4ODBdfQ==
+eyJoaXN0b3J5IjpbLTUyODk3MDg4MSwtMjE0Njk3ODM5OSwxND
+EwMzE5NzU1LC01NTM4Nzk1NDIsLTEwNDEyMzMwNjAsLTMzMDI4
+MjczNCwtMjA4ODc0NjYxMiwxNDA2MDk4ODI0LDU4MjY1OTg4MF
+19
 -->
